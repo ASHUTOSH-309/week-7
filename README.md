@@ -1,6 +1,7 @@
 # React + Vite
-
+## USING THE CONTEXT API AND STATE MANAGEMENT TOOLS
 --Learning context api, recoil
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
